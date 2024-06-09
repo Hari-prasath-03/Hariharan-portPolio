@@ -141,7 +141,7 @@
     background-color: #020f25;
     width: 350px;
     height: 100%;
-    z-index: 10;
+    z-index: 300 !important;
     transition: 0.6s ease-in-out;
   }
 
